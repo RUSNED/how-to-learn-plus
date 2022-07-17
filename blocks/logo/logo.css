@@ -1,0 +1,12 @@
+.logo_header {
+position: absolute; 
+width: 228px;
+height: 32px;
+top: 31px;
+left: 64px;
+}
+
+.logo_footer {
+width: 228px;
+height: 32px;
+}

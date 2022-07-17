@@ -1,0 +1,15 @@
+
+.column_heading {
+font-family: 'Inter-Semibold';
+font-size: 18px;
+line-height: 30px;
+color: #FFFFFF;
+cursor:pointer
+}
+
+.column_heading:hover {
+opacity: 0.5;
+}
+
+
+

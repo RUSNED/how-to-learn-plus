@@ -1,0 +1,8 @@
+
+.colums {
+display: flex;
+width: 1300px;
+margin:auto;
+justify-content:space-between;  
+}
+
