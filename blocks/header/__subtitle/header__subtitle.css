@@ -1,11 +1,10 @@
 .header__subtitle {
   position: absolute; 
-  width: 388px;
-  height: 75px;
-  left: 64px;
-  top: 595px;
+  max-width: 388px;
   color: #000000;
   font-family: 'Inter';
   font-size: 18px;
   line-height: 25px;
+  left:64px;
+  bottom: 30px;
 }

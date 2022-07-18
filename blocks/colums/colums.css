@@ -1,7 +1,7 @@
 
 .colums {
 display: flex;
-width: 1300px;
+width: 90%;
 margin:auto;
 justify-content:space-between;  
 }

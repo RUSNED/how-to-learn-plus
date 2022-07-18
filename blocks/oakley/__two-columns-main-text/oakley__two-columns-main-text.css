@@ -1,4 +1,5 @@
 .oakley__two-columns-main-text {
-width: 921px;
+width: 80%;
+min-width: 784px;
 flex-direction: column;
 }
