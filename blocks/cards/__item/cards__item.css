@@ -1,8 +1,6 @@
-
 .cards__item {
-display:flex;
-width: 240px;
-padding-top: 60px;
-flex-direction:column;
-
+  display: flex;
+  width: 240px;
+  padding-top: 60px;
+  flex-direction: column;
 }
