@@ -1,0 +1,17 @@
+.feynman__link {
+  width: 242px;
+  font-family: "Inter";
+  font-size: 36px;
+  line-height: 51px;
+  position: absolute;
+  color: #2f80ed;
+  text-align: right;
+  top: 50%;
+  right: 48px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.feynman__link:hover {
+  opacity: 0.5;
+}

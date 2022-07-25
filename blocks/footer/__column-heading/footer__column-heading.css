@@ -1,0 +1,12 @@
+.footer__column-heading a{
+  font-family: "Inter-Semibold";
+  font-size: 18px;
+  line-height: 30px;
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.footer__column-heading:hover {
+  opacity: 0.5;
+}

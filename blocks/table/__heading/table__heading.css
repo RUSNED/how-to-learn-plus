@@ -1,0 +1,13 @@
+.table__heading {
+  font-family: 'Inter-Semibold';
+  font-size: 24px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.table__heading_theme_dark {
+  font-family: "Inter-Semibold";
+  font-size: 24px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
