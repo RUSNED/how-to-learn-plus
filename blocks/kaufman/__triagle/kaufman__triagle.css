@@ -1,5 +1,9 @@
 .kaufman__triagle {
+  background-image: url(../../../images/kaufman-triangle.svg);
   position: absolute;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
   width: 877px;
   height: 877px;
   right: -210px;

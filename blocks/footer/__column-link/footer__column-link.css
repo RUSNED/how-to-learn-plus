@@ -3,6 +3,11 @@
   cursor: pointer;
   text-decoration: none;
   color: white;
+  font-family: "Inter";
+  font-size: 18px;
+  padding-top: 10px;
+  color: #ffffff;
+  line-height: 28px;
 }
 
 .footer__column-link:hover {

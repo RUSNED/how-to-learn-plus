@@ -1,12 +1,10 @@
-.footer__column-heading a{
+.footer__column-heading {
   font-family: "Inter-Semibold";
   font-size: 18px;
   line-height: 30px;
   color: white;
   text-decoration: none;
-  cursor: pointer;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 
-.footer__column-heading:hover {
-  opacity: 0.5;
-}
